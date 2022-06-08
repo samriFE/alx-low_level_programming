@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * print_alphabet - print alphabet lowercase
  *
@@ -15,4 +17,3 @@ _putchar(alphabet);
 
 _putchar('\n');
 
-}
